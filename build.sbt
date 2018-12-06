@@ -9,7 +9,7 @@ val catsEffectV = "1.1.0"
 val log4catsV = "0.2.0"
 val logbackClassicV = "1.2.3"
 
-val kindProjectorV = "0.9.8"
+val kindProjectorV = "0.9.9"
 val betterMonadicForV = "0.3.0-M4"
 
 
